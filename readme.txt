@@ -1,0 +1,1 @@
+This project is a simple Hangman Game assigned as homework in the Fall 2012 Data Structures course in the University of Chicago M.S. CS program
